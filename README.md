@@ -8,7 +8,6 @@ This project is an AI-powered desktop application designed as a professional ass
 * **ui.py**: A professional graphical interface built with Tkinter.
 * **logic.py**: The core engine that processes queries using Regular Expressions.
 * **data.py**: The database module for storing driver profiles.
-* **father.png**: The professional profile image integrated into the interface.
 * **requirements.txt**: List of necessary dependencies.
 
 ## Key Features
