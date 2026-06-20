@@ -18,25 +18,26 @@ This project is an AI-powered desktop application designed as a professional ass
 
 ## Interface Preview
 ![Chatbot Interface](screenshot.png)
-💬 Supported Queries
-The chatbot is designed to provide information based on the professional career, personal profile, and daily routine of Sajjad Ahmad. Below are some examples of the queries the system can process:
-Professional Background:
-"What is your profession?"
-"What is your total driving experience?"
-"What are your average daily driving hours?"
-Operational Routes & Routine:
-"Which routes do you typically cover?"
-"Can you describe your daily routine?"
-"Do you perform night shifts?"
-Personal Profile:
-"What are the details of your family?"
-"What is your current age?"
-"What is your educational background?"
-Licensing & Safety:
-"Do you have a valid driving license?"
-"What are your safety protocols?"
-"Do you follow highway traffic laws?"
-Lifestyle & Preferences:
-"What is your favorite food?"
-"Where do you stay during long-haul trips?"
-"How do you manage your prayers while driving?"
+
+## 💬 Supported Queries
+The chatbot is designed to provide information based on the user's career, personal profile, and daily routine. Below are some examples of the queries the system can process:
+
+* **Professional Background:**
+    * "What is your profession?"
+    * "What is your total driving experience?"
+    * "What are your average daily driving hours?"
+* **Operational Routes & Routine:**
+    * "Which routes do you typically cover?"
+    * "Can you describe your daily routine?"
+    * "Do you perform night shifts?"
+* **Personal Profile:**
+    * "What are the details of your family?"
+    * "What is your current age?"
+    * "What is your educational background?"
+* **Licensing & Health:**
+    * "Is your driving license currently valid?"
+    * "What is your medical fitness status?"
+* **Lifestyle Preferences:**
+    * "What is your favorite food?"
+    * "Where do you usually stay during long-haul trips?"
+ 
