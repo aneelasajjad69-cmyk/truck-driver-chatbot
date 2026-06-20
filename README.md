@@ -16,9 +16,5 @@ This project is an AI-powered desktop application designed as a professional ass
 * **User-Friendly UI**: A clean dashboard for quick data retrieval.
 * **Smart Logic**: Efficient pattern matching for accurate information delivery.
 
-## Interface & Profile Preview
+## Interface Preview
 ![Chatbot Interface](screenshot.png)
-![Driver Profile](father.png)
-
----
-*Developed as a University Semester Project.*
